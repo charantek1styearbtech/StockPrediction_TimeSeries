@@ -1,0 +1,14 @@
+Flask
+pandas
+scikit-learn
+numpy
+matplotlib
+yfinance
+tensorflow
+openai
+streamlit
+serpapi
+langchain-google-genai
+google-search-results
+langchain-community
+python-dotenv
